@@ -1,0 +1,10 @@
+{
+  "name": "unicornstudio-shader-background",
+  "version": "1.0.0",
+  "description": "Shader background with UnicornStudio.js and fire particle overlay",
+  "main": "index.html",
+  "scripts": {},
+  "dependencies": {
+    "three": "^0.152.2"
+  }
+}
